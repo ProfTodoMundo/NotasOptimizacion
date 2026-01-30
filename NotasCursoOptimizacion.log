@@ -1,6 +1,7 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  28 JAN 2026 09:40
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.8)  30 JAN 2026 10:54
 entering extended mode
  restricted \write18 enabled.
+ file:line:error style messages enabled.
  %&-line parsing enabled.
 **NotasCursoOptimizacion.tex
 (./NotasCursoOptimizacion.tex
@@ -706,19 +707,41 @@ LaTeX Info: Redefining \% on input line 1.
 
 [3
 
-] (./NotasCursoOptimizacion.bbl
+] (./Cap1_Introduccion.tex
+LaTeX Font Info:    Trying to load font information for U+msa on input line 25.
 
-LaTeX Info: Redefining \. on input line 103.
-LaTeX Info: Redefining \% on input line 103.
-LaTeX Info: Redefining \. on input line 103.
-LaTeX Info: Redefining \% on input line 103.
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 25.
+
+
+(/usr/local/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+))
+
+LaTeX Info: Redefining \. on input line 155.
+LaTeX Info: Redefining \% on input line 155.
 
 pdfTeX warning (ext4): destination with the same identifier (name{page.1}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
+l.155 \newpage
+               [1] (./NotasCursoOptimizacion.bbl
+
+LaTeX Info: Redefining \. on input line 103.
+LaTeX Info: Redefining \% on input line 103.
+LaTeX Info: Redefining \. on input line 103.
+LaTeX Info: Redefining \% on input line 103.
+
+pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+been already used, duplicate ignored
+<to be read again> 
+                   \relax 
 l.103 \bibitem{gupta_lecture_nodate}
-                                     [1]
+                                     [2]
 LaTeX Font Info:    Trying to load font information for OMS+cmr on input line 1
 41.
 
@@ -734,12 +757,12 @@ LaTeX Info: Redefining \% on input line 175.
 LaTeX Info: Redefining \. on input line 175.
 LaTeX Info: Redefining \% on input line 175.
 
-pdfTeX warning (ext4): destination with the same identifier (name{page.2}) has 
+pdfTeX warning (ext4): destination with the same identifier (name{page.3}) has 
 been already used, duplicate ignored
 <to be read again> 
                    \relax 
 l.175 \end{document}
-                     [2] (./NotasCursoOptimizacion.aux
+                     [3] (./NotasCursoOptimizacion.aux
 LaTeX Info: Redefining \. on input line 11.
 LaTeX Info: Redefining \% on input line 11.
 )
@@ -749,16 +772,16 @@ L3 programming layer <2025-01-18>
  ***********
 Package rerunfilecheck Info: File `NotasCursoOptimizacion.out' has not changed.
 
-(rerunfilecheck)             Checksum: D41D8CD98F00B204E9800998ECF8427E;0.
+(rerunfilecheck)             Checksum: A9E4A9F1D26F0130970CF891C5F5566A;144.
  ) 
 Here is how much of TeX's memory you used:
- 16154 strings out of 473190
- 259135 string characters out of 5715801
- 688363 words of memory out of 5000000
- 39162 multiletter control sequences out of 15000+600000
- 562757 words of font info for 49 fonts, out of 8000000 for 9000
+ 16223 strings out of 473190
+ 260248 string characters out of 5715801
+ 688368 words of memory out of 5000000
+ 39208 multiletter control sequences out of 15000+600000
+ 567323 words of font info for 67 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 75i,12n,79p,559b,725s stack positions out of 10000i,1000n,20000p,200000b,200000s
+ 75i,12n,79p,1230b,725s stack positions out of 10000i,1000n,20000p,200000b,200000s
 </usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmbx12.pfb
 ></usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr10.pfb><
 /usr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmr12.pfb></u
@@ -766,10 +789,10 @@ sr/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmsy10.pfb></us
 r/local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti10.pfb></usr
 /local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmti12.pfb></usr/
 local/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/cm/cmtt12.pfb>
-Output written on NotasCursoOptimizacion.pdf (5 pages, 98155 bytes).
+Output written on NotasCursoOptimizacion.pdf (6 pages, 105239 bytes).
 PDF statistics:
- 106 PDF objects out of 1000 (max. 8388607)
- 84 compressed objects within 1 object stream
- 39 named destinations out of 1000 (max. 500000)
- 1 words of extra memory for PDF output out of 10000 (max. 10000000)
+ 115 PDF objects out of 1000 (max. 8388607)
+ 92 compressed objects within 1 object stream
+ 40 named destinations out of 1000 (max. 500000)
+ 9 words of extra memory for PDF output out of 10000 (max. 10000000)
 
